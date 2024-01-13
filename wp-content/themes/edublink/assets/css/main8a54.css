@@ -3558,7 +3558,7 @@ header .edublink-row>* {
 
 .edublink-header-area ul.edublink-navbar-nav > li.menu-item-has-children > a:before {
 	position: absolute;
-    content: '\e91e';
+    /* content: '\e91e'; */
     font-family: 'icomoon';
     right: 5px;
     bottom: 42px;
